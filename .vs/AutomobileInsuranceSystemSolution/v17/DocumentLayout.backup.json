@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aseen\\OneDrive\\Documents\\Hexaware\\API\\AutomobileInsuranceSystemSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BBF43E-20C9-4FE7-929F-41D89F431C3E}|AutomobileInsuranceSystem\\AutomobileInsuranceSystem.csproj|c:\\users\\aseen\\onedrive\\documents\\hexaware\\api\\automobileinsurancesystemsolution\\automobileinsurancesystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BBF43E-20C9-4FE7-929F-41D89F431C3E}|AutomobileInsuranceSystem\\AutomobileInsuranceSystem.csproj|solutionrelative:automobileinsurancesystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BBF43E-20C9-4FE7-929F-41D89F431C3E}|AutomobileInsuranceSystem\\AutomobileInsuranceSystem.csproj|c:\\users\\aseen\\onedrive\\documents\\hexaware\\api\\automobileinsurancesystemsolution\\automobileinsurancesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BBF43E-20C9-4FE7-929F-41D89F431C3E}|AutomobileInsuranceSystem\\AutomobileInsuranceSystem.csproj|solutionrelative:automobileinsurancesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aseen\\OneDrive\\Documents\\Hexaware\\API\\AutomobileInsuranceSystemSolution\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\aseen\\OneDrive\\Documents\\Hexaware\\API\\AutomobileInsuranceSystemSolution\\AutomobileInsuranceSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AutomobileInsuranceSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\aseen\\OneDrive\\Documents\\Hexaware\\API\\AutomobileInsuranceSystemSolution\\AutomobileInsuranceSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AutomobileInsuranceSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T05:30:05.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aseen\\OneDrive\\Documents\\Hexaware\\API\\AutomobileInsuranceSystemSolution\\AutomobileInsuranceSystem\\Program.cs",
+              "RelativeDocumentMoniker": "AutomobileInsuranceSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\aseen\\OneDrive\\Documents\\Hexaware\\API\\AutomobileInsuranceSystemSolution\\AutomobileInsuranceSystem\\Program.cs",
+              "RelativeToolTip": "AutomobileInsuranceSystem\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T05:24:33.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\aseen\\OneDrive\\Documents\\Hexaware\\API\\AutomobileInsuranceSystemSolution\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\aseen\\OneDrive\\Documents\\Hexaware\\API\\AutomobileInsuranceSystemSolution\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-14T10:33:43.506Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

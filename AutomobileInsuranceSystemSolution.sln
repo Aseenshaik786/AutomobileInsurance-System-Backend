@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomobileInsuranceSystem", "AutomobileInsuranceSystem\AutomobileInsuranceSystem.csproj", "{B6BBF43E-20C9-4FE7-929F-41D89F431C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomobileInsuranceSystem.Tests", "AutomobileInsuranceSystem.Tests\AutomobileInsuranceSystem.Tests.csproj", "{E56E8A07-EACA-4883-98AC-53DA96D07C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6BBF43E-20C9-4FE7-929F-41D89F431C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BBF43E-20C9-4FE7-929F-41D89F431C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BBF43E-20C9-4FE7-929F-41D89F431C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BBF43E-20C9-4FE7-929F-41D89F431C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E56E8A07-EACA-4883-98AC-53DA96D07C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E56E8A07-EACA-4883-98AC-53DA96D07C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E56E8A07-EACA-4883-98AC-53DA96D07C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E56E8A07-EACA-4883-98AC-53DA96D07C86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E2389B9-B6E0-479F-95F5-E58A60844454}
+	EndGlobalSection
+EndGlobal
